@@ -13,6 +13,8 @@ h2{
   padding: 5px 10px;
   border-radius: 20px;
   color: azure;
+  position: relative;
+  left: 150px;
 }
 ul {
   list-style-type: none;
